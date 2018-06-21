@@ -10,25 +10,65 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_Learing$Doraemon.coverage" NAME="Doraemon Coverage Results" MODIFIED="1529480812161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExample" />
+    <SUITE FILE_PATH="coverage/Python_Learing$TextProBarV2.coverage" NAME="TextProBarV2 Coverage Results" MODIFIED="1529485344849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码" />
+    <SUITE FILE_PATH="coverage/Python_Learing$Doraemon.coverage" NAME="Doraemon Coverage Results" MODIFIED="1529561364071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExample" />
     <SUITE FILE_PATH="coverage/Python_Learing$jiqi2.coverage" NAME="jiqi2 Coverage Results" MODIFIED="1529480018886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExample" />
+    <SUITE FILE_PATH="coverage/Python_Learing$DayDayUpQ4.coverage" NAME="DayDayUpQ4 Coverage Results" MODIFIED="1529481573360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExample" />
+    <SUITE FILE_PATH="coverage/Python_Learing$TextProBarV3.coverage" NAME="TextProBarV3 Coverage Results" MODIFIED="1529485293806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码" />
+    <SUITE FILE_PATH="coverage/Python_Learing$TextProBarV1.coverage" NAME="TextProBarV1 Coverage Results" MODIFIED="1529485023912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jiqi2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonExample/jiqi2.py">
+      <file leaf-file-name="Doraemon.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonExample/Doraemon.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Doraemon.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonExample/Doraemon.py">
+      <file leaf-file-name="Doraemon2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonExample/Doraemon2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="133">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DayDayUpQ4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonExample/DayDayUpQ4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextProBarV1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextProBarV3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextProBarV2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -37,6 +77,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV2.py" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -47,10 +94,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1062" />
+    <option name="y" value="176" />
     <option name="width" value="818" />
-    <option name="height" value="1040" />
+    <option name="height" value="695" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -68,6 +116,12 @@
               <item name="Python-Learing" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Learing" type="462c0819:PsiDirectoryNode" />
               <item name="PythonExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Learing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Learing" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonExample" type="462c0819:PsiDirectoryNode" />
+              <item name="实例4-文本进度条源代码" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -96,6 +150,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Doraemon">
+    <configuration name="DayDayUpQ4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Learing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonExample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExample/DayDayUpQ4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Doraemon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +188,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="jiqi2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TextProBarV1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,25 +196,69 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonExample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExample/jiqi2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TextProBarV2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Learing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TextProBarV3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Learing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.jiqi2" />
       <item itemvalue="Python.Doraemon" />
+      <item itemvalue="Python.DayDayUpQ4" />
+      <item itemvalue="Python.TextProBarV1" />
+      <item itemvalue="Python.TextProBarV3" />
+      <item itemvalue="Python.TextProBarV2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Doraemon" />
-        <item itemvalue="Python.jiqi2" />
+        <item itemvalue="Python.TextProBarV2" />
+        <item itemvalue="Python.TextProBarV3" />
+        <item itemvalue="Python.TextProBarV1" />
+        <item itemvalue="Python.DayDayUpQ4" />
       </list>
     </recent_temporary>
   </component>
@@ -159,15 +276,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1039" y="0" width="818" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="1062" y="176" width="818" height="695" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17400882" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28063944" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2651715" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -194,15 +310,50 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PythonExample/jiqi2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="228">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExample/Doraemon2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExample/DayDayUpQ4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExample/实例4-文本进度条源代码/TextProBarV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonExample/Doraemon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
